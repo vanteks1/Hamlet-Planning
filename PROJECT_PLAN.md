@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](README.md)
+
 # Project Plan: Hamlet Land Acquisition & Development
 
 ## Phase 1: Search & Identification

@@ -1,29 +1,41 @@
-# Hamlet Planning: Georgia Land Development
+# 🏡 Hamlet Planning: Georgia Land Development
 
-A project to acquire and subdivide land in the Atlanta metro area for multi-family residential development.
-
-## Project Vision
-Purchase a 2.5-3.0+ acre parcel of land in the Northeast Atlanta metro area (Gwinnett, Fulton, DeKalb, Forsyth) and subdivide it into at least 4 lots to accommodate the families of the Lead (User), Steve & Gabi, Duran, and Kimberly.
-
-## Current Phase: Search & Identification
-We are currently scouting for land that meets the following criteria:
-- **Location:** NE Atlanta metro, preferably near Duluth.
-- **Size:** 2.5+ acres (sufficient for 4 lots, one of which must be 1.0 acre).
-- **Zoning:** Subdivision feasible (Major vs. Minor threshold check required).
-- **Utilities:** Sewer accessibility preferred; septic requires careful soil testing.
-
-## Repository Structure
-- `GEMINI.md`: Core mandates and persistent stakeholder context.
-- `PROJECT_PLAN.md`: The roadmap for acquisition and development.
-- `agents/`: Instructions for specialized sub-agents (Land Scout, Zoning Expert, etc.).
-- `requirements/`: Specific stakeholder needs and documentation.
-- `research/`: Collected data on zoning, floods, and infrastructure.
-
-## Management
-This project is managed by specialized AI agents acting as Project Manager, Land Scout, Zoning Expert, and Financial Analyst.
-- Project sync is performed hourly to maintain GitHub parity.
+Welcome to the **Hamlet Planning** project. This repository is our central hub for searching, evaluating, and acquiring land in the Northeast Atlanta metro area for our multi-family development.
 
 ---
-**Lead:** User
-**Location:** NE Atlanta Metro
-**Goal:** 4-Lot Subdivision
+
+## 🗺️ Project Navigation (Table of Contents)
+
+*   [**📜 GEMINI.md**](GEMINI.md) - The core rules, stakeholders, and high-level goals of the project.
+*   [**📈 PROJECT_PLAN.md**](PROJECT_PLAN.md) - Our step-by-step roadmap from land search to home construction.
+*   [**👥 Stakeholder Requirements**](requirements/stakeholders.md) - Detailed needs and preferences for each family group.
+*   [**📍 Land Leads & Research**](research/land_leads.md) - Active search results and properties we are currently evaluating.
+*   [**📖 Glossary of Terms**](GLOSSARY.md) - Definitions for "zoning," "plats," "LDPs," and other technical terms.
+
+### 🤖 Our AI Project Team (Agents)
+These "Agents" are AI personas with specialized instructions for managing different parts of the project:
+*   [Project Manager](agents/project_manager.md) - Overall coordination and timeline.
+*   [Land Scout](agents/land_scout.md) - Finding and filtering new property listings.
+*   [Zoning Expert](agents/zoning_expert.md) - Researching county laws and subdivision rules.
+*   [Financial Analyst](agents/financial_analyst.md) - Tracking costs, taxes, and development budgets.
+
+---
+
+## 📂 Folder Descriptions
+*   `/agents/`: Instructions for the AI team members.
+*   `/requirements/`: Documentation of what we need (lot sizes, locations).
+*   `/research/`: Data on properties, zoning, and utilities.
+*   `/scripts/`: Behind-the-scenes automation (like the hourly GitHub sync).
+
+---
+
+## 💡 How to Use This Project
+If you are new to GitHub, here is how to stay updated:
+1.  **Check the [Land Leads](research/land_leads.md)** to see the latest properties we've found.
+2.  **Review the [Project Plan](PROJECT_PLAN.md)** to see which phase we are currently in.
+3.  **Read the [Glossary](GLOSSARY.md)** if you encounter a term you don't recognize.
+4.  **Feedback:** If you have a property to add or a change to requirements, contact the Lead (User) or update the files directly if you have access.
+
+---
+**Current Status:** 🔍 Phase 1: Search & Identification
+**Priority Area:** Duluth & NE Metro Corridor (Gwinnett, Forsyth, Hall, Barrow, Jackson)

@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](README.md)
+
 # Hamlet Planning: Project Mandates & Context
 
 ## Project Objective
