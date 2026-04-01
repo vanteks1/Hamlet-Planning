@@ -6,7 +6,7 @@
 Acquire and subdivide a parcel of land in the Atlanta metro area (NE/Duluth region) into at least 4 lots to accommodate multiple family units.
 
 ## Stakeholders
-1.  **Lead (User) + Sounley, Eric, Kanaya, Nala:** 0.5+ acre, MIL suite for grandparents.
+1.  **DeVante + Sounley, Erica, Kanaya, Nala:** 0.5+ acre, MIL suite for grandparents.
 2.  **Steve + Gabi:** 0.5+ acre, MIL suite for his mom.
 3.  **Duran:** 1.0 acre.
 4.  **Kimberly:** 0.5 acre.
