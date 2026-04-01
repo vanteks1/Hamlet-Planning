@@ -12,7 +12,19 @@ Welcome to the **Hamlet Planning** project. This repository is our central hub f
 *   [**📍 Land Leads & Research**](research/land_leads.md) - Active search results and properties we are currently evaluating.
 *   [**📖 Glossary of Terms**](GLOSSARY.md) - Definitions for "zoning," "plats," "LDPs," and other technical terms.
 
-### 🤖 Our AI Project Team (Agents)
+---
+
+## 🤝 Collaborative Search (Add New Lots Here!)
+We have a shared document where everyone can add land listings they find:
+👉 [**Hamlet Land Search - Shared Google Doc**](https://docs.google.com/document/d/1Vwyy4RE3LSvZ0fcEpzdcsU23W-gK7x9Il7oO9GyCSDw/edit?usp=sharing)
+
+**Instructions:**
+- If you find a property on Zillow, Redfin, or elsewhere, please add the link and any notes to the Doc.
+- The **Land Scout agent** will periodically review the Doc and move promising leads into the official [Land Leads](research/land_leads.md) file for technical evaluation.
+
+---
+
+## 🤖 Our AI Project Team (Agents)
 These "Agents" are AI personas with specialized instructions for managing different parts of the project:
 *   [Project Manager](agents/project_manager.md) - Overall coordination and timeline.
 *   [Land Scout](agents/land_scout.md) - Finding and filtering new property listings.
