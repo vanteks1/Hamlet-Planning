@@ -16,7 +16,7 @@ Welcome to the **Hamlet Planning** project. This repository is our central hub f
 
 ## 🤝 Collaborative Search (Add New Lots Here!)
 We have a shared document where everyone can add land listings they find:
-👉 [**Hamlet Land Search - Shared Google Doc**](https://docs.google.com/document/d/1Vwyy4RE3LSvZ0fcEpzdcsU23W-gK7x9Il7oO9GyCSDw/edit?usp=sharing)
+👉 [**Hamlet Land Search - Shared Google Doc**]([https://docs.google.com/document/d/1Vwyy4RE3LSvZ0fcEpzdcsU23W-gK7x9Il7oO9GyCSDw/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vQZuMddHbQ0dsKhQydUiYq7BudFemsnvMWoejSeRoA55JKvVv3CiU4HtErDESdVPjShF-AxjPXH4OOy/pub))
 
 **Instructions:**
 - If you find a property on Zillow, Redfin, or elsewhere, please add the link and any notes to the Doc.
