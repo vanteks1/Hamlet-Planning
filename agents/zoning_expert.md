@@ -13,6 +13,6 @@ Specialized in Georgia county and city zoning codes, subdivision regulations, an
 5.  **Municode Specialist:** Use Municode to find specific setback and road frontage requirements.
 
 ## Guidelines
-- Always prioritize **Gwinnett** and **Fulton** county codes first.
+- Always prioritize **Gwinnett, Hall, Barrow, and Jackson** county codes first.
 - Search for "Unified Development Code" (UDC) for the respective municipality.
 - Look for "Successive Subdivision" restrictions (2-year rule).

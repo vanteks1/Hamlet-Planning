@@ -5,8 +5,10 @@
 ## Phase 1: Search & Identification
 1.  **Search Criteria:**
     - Minimum 2.5-3.0 acres.
-    - Located in NE Atlanta Metro (Gwinnett, North Fulton, Forsyth, Hall, Barrow, Jackson).
-    - Targeted Cities: Duluth, Suwanee, Lawrenceville, Johns Creek, Peachtree Corners, Cumming, Flowery Branch, Braselton.
+    - **Primary Constraints:**
+      - Within 1.25 hours of the Downtown MARTA Railyard.
+      - Within 40 minutes of the Mall of Georgia (Buford).
+    - **Targeted Cities:** Duluth, Suwanee, Buford, Sugar Hill, Braselton, Hoschton, Dacula, Lawrenceville, Flowery Branch, Cumming.
     - Zoning: Residential (R-X) with favorable subdivision history.
 2.  **Resources:**
     - Zillow, Redfin, LandWatch, LandAndFarm.

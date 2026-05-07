@@ -18,8 +18,11 @@ Acquire and subdivide a parcel of land in the Atlanta metro area (NE/Duluth regi
 4.  **Project Management:** Use specialized agents for Land Scouting, Zoning Research, and Financial Analysis.
 
 ## Preferred Location
-- Northeast Atlanta Metro (Gwinnett, Fulton, DeKalb, Forsyth, Hall, Barrow, Jackson).
-- Priority: **Duluth** and surrounding NE corridor.
+- **Primary Constraints:**
+  - Within 1.25 hours of the **Downtown MARTA Railyard** (Atlanta, GA).
+  - Within 40 minutes of the **Mall of Georgia** (Buford, GA).
+- **Counties of Interest:** Gwinnett, Forsyth, Hall, Barrow, Jackson, North Fulton.
+- **Priority Cities:** Duluth, Suwanee, Buford, Sugar Hill, Braselton, Hoschton, Dacula, Lawrenceville, Flowery Branch.
 
 ## Technical Constraints
 - Minimum 4 lots.

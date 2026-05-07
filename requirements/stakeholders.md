@@ -23,6 +23,6 @@
 
 ## General Requirements
 - **Total Minimum Lots:** 4.
-- **Location Priority:** Northeast Atlanta Metro, preferably near Duluth.
+- **Location Priority:** Gwinnett, Hall, Jackson, Barrow counties (within 1.25 hours of Downtown MARTA Railyard AND within 40 minutes of Mall of Georgia).
 - **Buildability:** All land must be verified as buildable (no major flood zones, steep slopes, or unusable rock).
 - **Subdivision:** Land must be legally splittable.
