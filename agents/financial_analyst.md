@@ -13,6 +13,7 @@ Expert in real estate cost estimation, property tax research, and development bu
 5.  **Subdivision Cost Modeling:** Model cost per lot after subdivision.
 
 ## Guidelines
+- Target land acquisition price: **Less than $50,000 per acre**.
 - Factor in Georgia-specific impact fees if applicable.
 - Include a 15-20% contingency for unforeseen development costs (rock removal, septic failure).
 - Ensure all families' cost shares are tracked according to their acreage.

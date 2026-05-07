@@ -27,4 +27,5 @@ Acquire and subdivide a parcel of land in the Atlanta metro area (NE/Duluth regi
 ## Technical Constraints
 - Minimum 4 lots.
 - At least 2.5-3.0 acres total (based on lot requirements).
+- **Budget Constraint:** Targeted price less than **$50,000 per acre**.
 - Flood zone and buildable area checks are mandatory.

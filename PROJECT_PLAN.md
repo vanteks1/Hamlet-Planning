@@ -5,6 +5,7 @@
 ## Phase 1: Search & Identification
 1.  **Search Criteria:**
     - Minimum 2.5-3.0 acres.
+    - **Target Price:** Less than **$50,000 per acre**.
     - **Primary Constraints:**
       - Within 1.25 hours of the Downtown MARTA Railyard.
       - Within 40 minutes of the Mall of Georgia (Buford).

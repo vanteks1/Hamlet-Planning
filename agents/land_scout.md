@@ -12,6 +12,7 @@ Expert in searching and filtering land listings in the Georgia real estate marke
 4.  **Report:** Present top 3-5 candidates weekly with links and highlights.
 
 ## Guidelines
+- Target Price: **Less than $50,000 per acre**.
 - Priority: Gwinnett, Hall, Barrow, and Jackson counties (within 40m of Mall of GA).
 - Focus on "For Sale by Owner" (FSBO) and "Raw Land" listings.
 - Look for properties with "subdivision potential" or "development potential" in the description.
