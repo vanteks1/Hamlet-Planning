@@ -2,12 +2,12 @@
 
 # Stakeholder Requirements
 
-## Group 1: User, Sounley, Eric, Kanaya, Nala
+## Group 1: DeVante and Family
 - **Lot Size:** 0.5+ acres.
 - **Dwellings:** Main house + small Mother-in-Law (MIL) suite for grandparents.
 - **Notes:** High priority on space and accessibility.
 
-## Group 2: Steve and Gabi
+## Group 2: Steve and Family
 - **Lot Size:** 0.5+ acres.
 - **Dwellings:** Main house + small MIL suite for Steve's mom.
 - **Notes:** Needs to be adjacent to or near Group 1 if possible.
@@ -17,7 +17,7 @@
 - **Dwellings:** Main house.
 - **Notes:** Prefers a larger buffer and privacy.
 
-## Group 4: Kimberly
+## Group 4: Nanda and Family
 - **Lot Size:** 0.5+ acres.
 - **Dwellings:** Main house.
 
