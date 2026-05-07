@@ -11,10 +11,6 @@
 | **241 Bill Watkins Rd, Hoschton** | $289,900 | 6.79 | ~$42.7k | Jackson | Active | **Meets Budget.** Level, cleared, existing well/septic. |
 | **202 Mccreery Rd, Jefferson** | $140,000 | 3.03 | ~$46.2k | Jackson | Active | **Meets Budget.** Requires public water for 4-lot split. |
 | **0 Brown Bridge Road, Auburn** | $300,000 | 6.09 | ~$49.2k | Barrow | Active | **Meets Budget.** Auburn/Dacula border. Good for 4 lots. |
-| **5655 Blackjack Rd #4, Flowery Branch** | $850,000 | 11.9 | ~$71.4k | Hall | Active | **Over Budget.** Large acreage, includes 3/2 home. |
-| **0 Wall Road, Winder** | $899,000 | 10.0 | ~$89.9k | Barrow | Active | **Over Budget.** Already zoned for multiple lots. |
-| **3033 Fence Road, Dacula** | $1,200,000 | 7.63 | ~$157.2k | Gwinnett | Active | **Over Budget.** Premium location. |
-| **5649 Kennedy Rd, Suwanee** | $770,000 | 3.54 | ~$217.5k | Gwinnett | Active | **Over Budget.** Prime location. Sewer verification critical. |
 
 ## Search Metadata
 - **Center Point 1:** Downtown MARTA Railyard (Max 1.25h)
