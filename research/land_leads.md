@@ -5,7 +5,6 @@
 ## Candidates
 | Address | Price | Acreage | County | Status | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **241 Bill Watkins Rd, Hoschton** | $289,900 | 6.79 | Jackson | Active | **Top Pick.** Level, cleared, existing well/septic. Fits 4 lots easily at 1.5ac+ each. |
 | **3005 Gaines Mill Rd, Gainesville** | $120,000 | 9.40 | Hall | Active | Wooded, includes creek. Large acreage for price; investigate buildable area vs steep slopes. |
 | **857 Laurel Ln, Winder** | $225,000 | 6.15 | Barrow | Active | Includes garage/workshop and mobile home. Public water available. |
 | **0 Brown Bridge Road, Auburn** | $300,000 | 6.09 | Barrow | Active | **High Value.** Auburn/Dacula border. Good for 4 lots (1.5ac each). |
