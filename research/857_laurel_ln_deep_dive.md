@@ -30,9 +30,11 @@
 ## Environmental & Infrastructure
 - **Water/Sewer:** Public water and electricity available. Septic required.
 - **Soil Analysis (Preliminary - qPublic Data):**
-    - **Codes:** **CeB** (Cecil sandy loam), **CfC2** (Cecil clay loam), **PTF** (Pacolet-Tallapoosa).
-    - **Suitability:** **CeB** and **CfC2** (approx. 30% of site) are well-to-moderately suited for septic. **PTF** (approx. 66% of site) is generally unsuitable due to steep slopes (15-60%).
-    - **Interpretation:** The qPublic report is a USDA NRCS summary used for tax productivity. It is **NOT a Level 3 study**. It indicates that septic systems must be carefully clustered on the ~2 acres of Cecil soils (high ground) to avoid the steep Pacolet slopes in the timbered areas.
+    - **CeB - Cecil Sandy Loam (11.6%):** **Well Suited.** Deep, well-drained. Ideal for standard septic.
+    - **CfC2 - Cecil Clay Loam (1.3%):** **Moderately Suited.** Eroded soil; requires careful shallow-trench design.
+    - **A9/W7 - Pacolet-Tallapoosa (87.1%):** **Generally Unsuitable.** Found in timbered areas with steep slopes (15-60%). Disqualified from "usable soil" counts by Health Dept.
+    - **Interpretation:** The site contains approx **1.8 - 2.0 acres of "Good" Cecil soil** (CeB/CfC2) located on the high ground near the entrance. The remaining 4.3 acres (PTF) are too steep for septic.
+    - **Strategy:** All 4 septic systems must be **clustered** on the 2 acres of Cecil soil. This is a USDA NRCS summary for tax purposes and **must be verified by a Level 3 Soil Study**.
 - **Water Features:** **None.** Contrary to earlier findings, there is no direct river or creek frontage on this parcel. Hawk Creek (~1,900ft) and Laurel Lane Reservoir (~1,000ft) are far enough away to avoid flood zone restrictions.
 - **Flood Zone:** **None.** The property is high ground, providing maximum buildable area for 4 homes and septic fields.
 - **Buffers:** No state or county water buffers identified within the parcel boundaries.
