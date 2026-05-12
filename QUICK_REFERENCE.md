@@ -49,7 +49,7 @@ Use this to quickly screen a parcel before investing time in deeper research.
 |---|---|---|
 | Road frontage | < 30 ft with no variance path | 30–60 ft (needs BOA) |
 | Usable soil | < 64,000 sq. ft. (4 houses + 2 MIL suites) | < 96,000 sq. ft. (primary + reserve) |
-| ADU type allowed | County prohibits detached (for Erica/Gabi lots) | SUP required (adds 6–8 weeks) |
+| ADU type allowed | County prohibits detached (for Grandparents/Margaret lots) | SUP required (adds 6–8 weeks) |
 | Est. soft costs | > $100k/lot over land price | $60k–$100k/lot over land price |
 | Fiber internet | Satellite only | Fixed wireless only |
 | Flood zone | AE (high-risk floodplain) | AH / X-shaded |
