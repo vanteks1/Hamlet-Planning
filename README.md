@@ -10,6 +10,7 @@ Welcome to the **Hamlet Planning** project. This repository is our central hub f
 *   [**📈 PROJECT_PLAN.md**](PROJECT_PLAN.md) - Our step-by-step roadmap from land search to home construction.
 *   [**👥 Stakeholder Requirements**](requirements/stakeholders.md) - Detailed needs and preferences for each family group.
 *   [**📍 Land Leads & Research**](research/land_leads.md) - Active search results and properties we are currently evaluating.
+*   [** Quick References **](QUICK_REFERENCE.md) - Information to keep in mind while considering properties.
 *   [**📖 Glossary of Terms**](GLOSSARY.md) - Definitions for "zoning," "plats," "LDPs," and other technical terms.
 
 ---
