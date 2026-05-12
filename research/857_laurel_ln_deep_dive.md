@@ -15,33 +15,30 @@
 - **Feasibility:** 
     - **4-Lot Subdivision:** **Highly Feasible.** The 6.15-acre tract can accommodate 4 lots of ~1.5 acres each.
     - **Subdivision Type:** Qualifies as a **Minor Subdivision** (under 6 lots).
-    - **Frontage:** Requires 100ft per lot. Total road frontage must be verified.
+    - **Frontage:** Approximately **64 feet** on Laurel Ln (verified via Case BOA 2025-009). This is insufficient for 4 side-by-side lots but enough for a shared access drive.
+    - **Access Strategy:** Create a **Private Shared Driveway** serving the 4 lots. While Barrow County typically limits shared drives to 2 lots, a nearby variance (BOA 2025-009) was recently granted for a 63ft frontage lot. This sets a strong legal precedent.
+    - **Note:** A gravel road is likely not permitted for a Major Subdivision; we will aim for a shared driveway variance to maintain Minor Subdivision status.
 
 ## Environmental & Infrastructure
-- **Water/Sewer:** Public water and electricity are available (underground). **Sewer is NOT available**; septic is required for all lots.
-- **Water Features:** 
-    - Direct frontage on the **Mulberry River**.
-    - Internal **spring-fed stream** with a bridge.
-- **Flood Zone:** A significant portion of the property near the river and stream is likely in a **FEMA Flood Zone (Zone A/AE)**.
-- **Buffers:** 
-    - Georgia state law requires a 25ft undisturbed buffer for state waters.
-    - Barrow County may require larger buffers (50-75ft) for major waterways like the Mulberry River.
-    - These buffers and flood zones will significantly reduce the "usable soil area" required for 4 septic systems.
+- **Water/Sewer:** Public water and electricity available. Septic required.
+- **Water Features:** **None.** Contrary to earlier findings, there is no direct river or creek frontage on this parcel. Hawk Creek (~1,900ft) and Laurel Lane Reservoir (~1,000ft) are far enough away to avoid flood zone restrictions.
+- **Flood Zone:** **None.** The property is high ground, providing maximum buildable area for 4 homes and septic fields.
+- **Buffers:** No state or county water buffers identified within the parcel boundaries.
 
 ## Location & Commute
 - **Mall of Georgia:** ~20-25 minutes (Passes 40m mandate).
 - **MARTA Railyard (Downtown ATL):** ~55-65 minutes (Passes 1h15m mandate).
 
 ## Critical Risks
-1. **Septic Capacity:** 4 homes (some with MIL suites) will require a Level 3 soil study to ensure 4 independent septic fields fit safely outside the river buffers.
-2. **Road Frontage:** Must confirm the lot has at least 400ft of frontage or if a shared drive variance is needed.
-3. **Flood Risk:** Building near the river increases insurance costs and restricts where homes can be placed.
+1. **Access Variance:** Need county approval to serve 4 lots from the narrow 64ft frontage. Legal precedent (BOA 2025-009) is in our favor.
+2. **Septic Capacity:** 4 homes (with MIL suites) will require a Level 3 soil study to ensure 4 independent septic fields fit safely.
+3. **Infrastructure Cost:** If the county mandates a paved road instead of a shared drive, costs will increase by ~$100k+.
 
 ## Recommendation
 **PROCEED / HIGH PRIORITY.** 
-The confirmation of **R-1 zoning** (instead of AG) makes this a premier candidate. It meets all commute, budget, and acreage mandates with the added bonus of river frontage.
+The confirmation of **R-1 zoning** and the lack of environmental constraints make this the premier candidate. We should prioritize securing a shared driveway variance to maintain the Minor Subdivision path.
 
 **Next Steps:**
 1. Professional soil study (Level 3) to confirm 4-lot septic capacity.
-2. Verify exact road frontage on Laurel Ln.
-3. Pre-application meeting with Barrow County Planning to confirm the "Minor Subdivision" path.
+2. Pre-application meeting with Barrow County Planning to discuss the 4-lot shared driveway variance.
+3. Review full BOA 2025-009 staff report for specific conditions granted to the neighbor.
