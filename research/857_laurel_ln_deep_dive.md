@@ -9,13 +9,13 @@
 - **Status:** Active
 
 ## Zoning & Subdivision Feasibility
-- **Current Zoning:** **AG (Agricultural District)**
-- **Septic Requirement:** Barrow County AG zoning requires a minimum of **5.0 acres per lot** when using on-site septic systems.
+- **Current Zoning:** **R-1 (Low-Density Single-Family Residential)**
+- **Tax Classification:** **R4-Residential** (Large Residential Tract)
+- **Min Lot Size (Septic + Public Water):** **25,500 sq. ft. (~0.58 acres)**
 - **Feasibility:** 
-    - **Under Current Zoning:** Only **1 lot** is possible (6.15 acres < 10.0 acres required for a 2-lot split).
-    - **Requirement for 4 Lots:** Would require **rezoning** to **R-1 (Low Density Residential)**.
-    - **R-1 Min Lot Size:** ~0.58 acres (25,500 sq. ft.) with public water and septic.
-    - **Note:** Rezoning is a high-risk process involving public hearings and must align with the Future Land Use Map.
+    - **4-Lot Subdivision:** **Highly Feasible.** The 6.15-acre tract can accommodate 4 lots of ~1.5 acres each.
+    - **Subdivision Type:** Qualifies as a **Minor Subdivision** (under 6 lots).
+    - **Frontage:** Requires 100ft per lot. Total road frontage must be verified.
 
 ## Environmental & Infrastructure
 - **Water/Sewer:** Public water and electricity are available (underground). **Sewer is NOT available**; septic is required for all lots.
@@ -33,14 +33,15 @@
 - **MARTA Railyard (Downtown ATL):** ~55-65 minutes (Passes 1h15m mandate).
 
 ## Critical Risks
-1. **Zoning Barrier:** Cannot achieve 4 lots without a full rezoning effort.
-2. **Septic Capacity:** 4 homes (some with MIL suites) will require substantial usable soil. The river, stream, and flood zones may leave insufficient "high ground" for 4 independent septic fields.
-3. **Flood Risk:** Building near the Mulberry River increases insurance costs and restricts where homes can be placed.
+1. **Septic Capacity:** 4 homes (some with MIL suites) will require a Level 3 soil study to ensure 4 independent septic fields fit safely outside the river buffers.
+2. **Road Frontage:** Must confirm the lot has at least 400ft of frontage or if a shared drive variance is needed.
+3. **Flood Risk:** Building near the river increases insurance costs and restricts where homes can be placed.
 
 ## Recommendation
-**HOLD/PROCEED WITH CAUTION.** 
-While the price and location are attractive, the combination of **AG zoning** (5-acre min) and **high environmental constraints** (river + stream) makes a 4-lot subdivision highly speculative. This property is better suited for a single private estate than a 4-unit hamlet.
+**PROCEED / HIGH PRIORITY.** 
+The confirmation of **R-1 zoning** (instead of AG) makes this a premier candidate. It meets all commute, budget, and acreage mandates with the added bonus of river frontage.
 
-**Next Steps (if pursuing):**
-1. Professional soil study (Level 3) to see if 4 septic systems can even fit.
-2. Pre-application meeting with Barrow County Planning to discuss rezoning likelihood.
+**Next Steps:**
+1. Professional soil study (Level 3) to confirm 4-lot septic capacity.
+2. Verify exact road frontage on Laurel Ln.
+3. Pre-application meeting with Barrow County Planning to confirm the "Minor Subdivision" path.
