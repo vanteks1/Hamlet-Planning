@@ -17,10 +17,22 @@
     - **Subdivision Type:** Qualifies as a **Minor Subdivision** (under 6 lots).
     - **Frontage:** Approximately **64 feet** on Laurel Ln (verified via Case BOA 2025-009). This is insufficient for 4 side-by-side lots but enough for a shared access drive.
     - **Access Strategy:** Create a **Private Shared Driveway** serving the 4 lots. While Barrow County typically limits shared drives to 2 lots, a nearby variance (BOA 2025-009) was recently granted for a 63ft frontage lot. This sets a strong legal precedent.
-    - **Note:** A gravel road is likely not permitted for a Major Subdivision; we will aim for a shared driveway variance to maintain Minor Subdivision status.
+    - **Note:** A shared driveway variance is the primary goal to avoid the "Major Subdivision" paving requirement.
+
+## Road & Infrastructure Options
+| Option | Surface | Classification | Pros | Cons |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shared Driveway** | **Gravel or Paved** | Minor Subdivision | **Low Cost (~$10k-$20k).** Maintains rural feel. No curbs/gutters required. | Limited to 2 lots by UDC; requires a **Variance** to serve 4 lots. |
+| **Private Spec Road** | **Paved (Asphalt)** | Major Subdivision | Guaranteed approval for 4+ lots. High durability. | **High Cost (~$100k+).** Requires 60ft ROW, 24ft width, curbs, and drainage engineering. |
+
+- **Reasoning:** We are prioritizing the **Shared Driveway Variance**. Since a nearby neighbor (BOA 2025-009) was granted a frontage variance for 63ft, we have strong precedent to argue that a shared driveway is the most "appropriate and least intrusive" way to access the 4 lots without forcing an expensive urban-style paved road into a rural 6-acre tract.
 
 ## Environmental & Infrastructure
 - **Water/Sewer:** Public water and electricity available. Septic required.
+- **Soil Analysis (Preliminary - qPublic Data):**
+    - **Codes:** **CeB** (Cecil sandy loam), **CfC2** (Cecil clay loam), **PTF** (Pacolet-Tallapoosa).
+    - **Suitability:** **CeB** and **CfC2** (approx. 30% of site) are well-to-moderately suited for septic. **PTF** (approx. 66% of site) is generally unsuitable due to steep slopes (15-60%).
+    - **Interpretation:** The qPublic report is a USDA NRCS summary used for tax productivity. It is **NOT a Level 3 study**. It indicates that septic systems must be carefully clustered on the ~2 acres of Cecil soils (high ground) to avoid the steep Pacolet slopes in the timbered areas.
 - **Water Features:** **None.** Contrary to earlier findings, there is no direct river or creek frontage on this parcel. Hawk Creek (~1,900ft) and Laurel Lane Reservoir (~1,000ft) are far enough away to avoid flood zone restrictions.
 - **Flood Zone:** **None.** The property is high ground, providing maximum buildable area for 4 homes and septic fields.
 - **Buffers:** No state or county water buffers identified within the parcel boundaries.
