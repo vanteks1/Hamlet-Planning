@@ -60,6 +60,6 @@ Use this to quickly screen a parcel before investing time in deeper research.
 ## Related Documents
 
 - [Project Plan](PROJECT_PLAN.md) — Overall hamlet strategy, stakeholder goals, and decision framework
-- [Stakeholder Requirements](requirements/stakeholders.md) — Individual family needs (including Erica and Gabi's MIL suite requirements)
+- [Stakeholder Requirements](requirements/stakeholders.md) — Individual family needs (including the grandparents and Magaret's MIL suite requirements)
 - [Land Leads](research/land_leads.md) — Active parcels under evaluation
 - [Glossary](GLOSSARY.md) — Definition of terms used across all documents
