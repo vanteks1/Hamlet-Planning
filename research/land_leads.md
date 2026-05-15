@@ -6,6 +6,7 @@
 | Address | Price | Acreage | Price/Acre | County | Status | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **3005 Gaines Mill Rd, Gainesville** | $120,000 | 9.40 | ~$12.7k | Hall | **High Priority** | **Meets Budget.** Potential public sewer nearby. Steep slopes & creek. Requires CUP for subdivision. |
+| **4033 Hidden Hollow Dr, Gainesville** | $127,200 | 4.24 | ~$30.0k | Hall | **Low Priority** | **Subdivision Risk.** Zoned AG-1 (5-acre min). 4-lot split unlikely without rezone. Creek & buffers. |
 | **Lot 4 Stewart Loop, Jefferson** | $154,900 | 8.82 | ~$17.5k | Jackson | Active | **Meets Budget.** Zoned A-2. Requires well/septic. Proximity to N. Oconee River (check flood zones). Road maintenance agreement in place. |
 | **857 Laurel Ln, Winder** | $225,000 | 6.15 | ~$36.5k | Barrow | **Priority** | **Verified R-1.** High ground (no flood). 64ft frontage requires access variance for 4-lot shared drive. |
 | **241 Bill Watkins Rd, Hoschton** | $289,900 | 6.79 | ~$42.7k | Jackson | Active | **Meets Budget.** Level, cleared, existing well/septic. |
