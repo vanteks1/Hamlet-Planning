@@ -12,6 +12,7 @@
 | **241 Bill Watkins Rd, Hoschton** | $289,900 | 6.79 | ~$42.7k | Jackson | Active | **Meets Budget.** Level, cleared, existing well/septic. |
 | **202 Mccreery Rd, Jefferson** | $140,000 | 3.03 | ~$46.2k | Jackson | Active | **Meets Budget.** Requires public water for 4-lot split. |
 | **0 Brown Bridge Road, Auburn** | $300,000 | 6.09 | ~$49.2k | Barrow | Active | **Meets Budget.** Auburn/Dacula border. Good for 4 lots. |
+| **1019 Kathleen Ln, Loganville** | ~$165k | 4.02 | ~$41.0k | Walton | **Low Priority** | **Tight Acreage.** 4.02 acres is extremely tight for 4 lots (1.0 acre min). Off-market. |
 
 ## Search Metadata
 - **Center Point 1:** Downtown MARTA Railyard (Max 1.25h)
