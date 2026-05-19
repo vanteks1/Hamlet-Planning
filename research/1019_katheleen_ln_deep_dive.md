@@ -10,7 +10,10 @@
 - **Existing Structure:** 780 sq. ft. Mobile Home (built 1973).
 
 ## Zoning & Subdivision Feasibility
-- **Current Zoning:** **A2 (Rural Estate)** (Formerly MH - Mobile Home, rescinded 2002)
+- **Current Zoning:** **A2 (Rural Estate)**
+    - **Note on qPublic:** qPublic displays a legacy label of **"MH"** and a tax classification of **"R3"**. 
+    - **Verification:** The "MH" (Manufactured Home) district was officially **rescinded by Walton County on Dec 3, 2002**. All such parcels are now regulated under the **A2** district standards.
+    - **Classification:** The **"R3"** label on qPublic is a **Tax Assessor classification** (Residential Lot < 5 acres), not a zoning designation.
 - **Min Lot Size (Septic + Public Water):** **1.0 Acre** (Updated Jan 2024 via Errata #2/3)
 - **Min Lot Size (Septic + Well):** **2.0 Acres**
 - **Feasibility:** 
