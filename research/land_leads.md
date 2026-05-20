@@ -5,6 +5,7 @@
 ## Candidates
 | Address | Price | Acreage | Price/Acre | County | Status | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Rockbridge Rd (R6024 002A), Stone Mountain** | $289,000 | 8.49 | ~$34.0k | Gwinnett | **High Priority** | **Meets Budget.** Across from Yellow River Park. No HOA. 8.49ac easily supports 4+ lots on septic. |
 | **3005 Gaines Mill Rd, Gainesville** | $120,000 | 9.40 | ~$12.7k | Hall | **High Priority** | **Meets Budget.** Potential public sewer nearby. Steep slopes & creek. Requires CUP for subdivision. |
 | **4033 Hidden Hollow Dr, Gainesville** | $127,200 | 4.24 | ~$30.0k | Hall | **Low Priority** | **Subdivision Risk.** Zoned AG-1 (5-acre min). 4-lot split unlikely without rezone. Creek & buffers. |
 | **Lot 4 Stewart Loop, Jefferson** | $154,900 | 8.82 | ~$17.5k | Jackson | Active | **Meets Budget.** Zoned A-2. Requires well/septic. Proximity to N. Oconee River (check flood zones). Road maintenance agreement in place. |
