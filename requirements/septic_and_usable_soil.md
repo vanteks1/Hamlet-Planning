@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](../README.md)
+
 # Septic & "Usable Soil" Reference
 
 Septic feasibility is the #1 reason rural subdivisions fail in Georgia. County Health Departments — not the planning office — have final say. A lot can be perfectly zoned and still be unbuildable if the soil won't perc.

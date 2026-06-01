@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](../README.md)
+
 # Research Report: 3005 Gaines Mill Rd, Gainesville, GA
 
 ## Property Overview

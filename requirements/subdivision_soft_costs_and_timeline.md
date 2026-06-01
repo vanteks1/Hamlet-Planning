@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](../README.md)
+
 # Subdivision "Soft Cost" & Timeline Estimator
 
 A $200k lot can easily become a $250k–$275k lot once permits, studies, and infrastructure are accounted for. This checklist maps every cost from "Raw Land Contract" to "Ready to Pull Building Permits" for a 4-lot hamlet subdivision in the Georgia NE / Atlanta metro fringe region.

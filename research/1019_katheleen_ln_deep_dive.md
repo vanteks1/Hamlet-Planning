@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](../README.md)
+
 # Research Report: 1019 Kathleen Ln, Loganville, GA
 
 ## Property Overview

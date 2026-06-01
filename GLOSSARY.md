@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](README.md)
+
 # 📖 Glossary of Terms: Land Acquisition & Development
 
 This glossary provides definitions for technical terms used throughout this project to help everyone stay on the same page.

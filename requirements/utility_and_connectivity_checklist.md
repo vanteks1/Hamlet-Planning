@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](../README.md)
+
 # Utility & Connectivity Checklist
 
 In rural Jackson, Barrow, and Hall counties, utility availability varies block by block. This checklist establishes a standard verification protocol to run on every parcel before making an offer. One side of the road can have 1Gbps fiber while the other is on satellite — this document ensures we never get surprised.

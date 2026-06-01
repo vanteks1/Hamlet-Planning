@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](../README.md)
+
 # ADU & MIL Suite Regulatory Guide
 
 Two stakeholders (Erica and Gabi) have explicitly stated that a Mother-in-Law (MIL) suite is a hard requirement. This document maps out what each county actually allows, since the rules vary dramatically — from fully detached cottages to attached-only suites with strict size caps.

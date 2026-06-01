@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](../README.md)
+
 # Property Research: Lot 4 Stewart Loop, Jefferson, GA
 
 ## Executive Summary

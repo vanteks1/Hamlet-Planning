@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](../README.md)
+
 # Research Report: 857 Laurel Ln, Winder, GA
 
 ## Property Overview

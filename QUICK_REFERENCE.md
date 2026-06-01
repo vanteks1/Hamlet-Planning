@@ -1,3 +1,5 @@
+[**⬅️ Back to README**](README.md)
+
 # Hamlet Planning — Quick Reference Index
 
 This page links to all quick reference documents used in evaluating and executing the 4-family hamlet project. Each document is designed to be actionable — checklists, county-by-county tables, and go/no-go criteria, not general background reading.
