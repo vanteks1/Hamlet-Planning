@@ -1,4 +1,4 @@
-[**⬅️ Back to README**](../README.md)
+[**⬅️ Back to Land Leads**](land_leads.md)
 
 # Deep Dive: 2453 Lake Rockaway Rd NW, Conyers
 
