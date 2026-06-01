@@ -1,23 +1,18 @@
-# Land Leads
+# Master Land Leads: Conyers Focus
 
-*Updated with fresh search results on 2026-05-07 based on new location constraints and budget ($50k/acre).*
+This list tracks the primary candidates for the Hamlet project in the Conyers/Rockdale area.
 
-## Candidates
-| Address | Price | Acreage | Price/Acre | County | Status | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Rockbridge Rd (R6024 002A), Stone Mountain** | $289,000 | 8.49 | ~$34.0k | Gwinnett | **High Priority** | **Meets Budget.** Across from Yellow River Park. No HOA. 8.49ac easily supports 4+ lots on septic. |
-| **3005 Gaines Mill Rd, Gainesville** | $120,000 | 9.40 | ~$12.7k | Hall | **High Priority** | **Meets Budget.** Potential public sewer nearby. Steep slopes & creek. Requires CUP for subdivision. |
-| **4033 Hidden Hollow Dr, Gainesville** | $127,200 | 4.24 | ~$30.0k | Hall | **Low Priority** | **Subdivision Risk.** Zoned AG-1 (5-acre min). 4-lot split unlikely without rezone. Creek & buffers. |
-| **Lot 4 Stewart Loop, Jefferson** | $154,900 | 8.82 | ~$17.5k | Jackson | Active | **Meets Budget.** Zoned A-2. Requires well/septic. Proximity to N. Oconee River (check flood zones). Road maintenance agreement in place. |
-| **857 Laurel Ln, Winder** | $225,000 | 6.15 | ~$36.5k | Barrow | **Priority** | **Verified R-1.** High ground (no flood). 64ft frontage requires access variance for 4-lot shared drive. |
-| **241 Bill Watkins Rd, Hoschton** | $289,900 | 6.79 | ~$42.7k | Jackson | Active | **Meets Budget.** Level, cleared, existing well/septic. |
-| **202 Mccreery Rd, Jefferson** | $140,000 | 3.03 | ~$46.2k | Jackson | Active | **Meets Budget.** Requires public water for 4-lot split. |
-| **0 Brown Bridge Road, Auburn** | $300,000 | 6.09 | ~$49.2k | Barrow | Active | **Meets Budget.** Auburn/Dacula border. Good for 4 lots. |
-| **1019 Kathleen Ln, Loganville** | ~$165k | 4.02 | ~$41.0k | Walton | **Low Priority** | **Tight Acreage.** 4.02 acres is extremely tight for 4 lots (1.0 acre min). Off-market. |
+| Property | Acreage | Price | Price/Acre | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **925 McDaniel Mill Rd SW** | 6.44 | $115,900 | ~$18k | Top Lead - Well/Septic Required |
+| **224 Griffin Mountain Trl NE** | 8.87 | $199,000 | ~$22k | Pending Research |
+| **2453 Lake Rockaway Rd NW** | 7.93 | $239,900 | ~$30k | Pending Research |
 
-## Search Metadata
-- **Center Point 1:** Downtown MARTA Railyard (Max 1.25h)
-- **Center Point 2:** Mall of Georgia (Max 40m)
-- **Budget Constraint:** Less than **$50,000 per acre**.
-- **Min Acreage:** 2.5 - 3.0 (Targeting 4.0+ for septic ease)
-- **Counties Covered:** Gwinnett, Hall, Jackson, Barrow.
+## Dropped/On-Hold Leads
+- *All prior Gwinnett/Hall leads moved to archive or removed per user request (May 2026).*
+
+## County Quick Stats (Rockdale)
+- **Zoning:** R-1 (Single-Family)
+- **Min Lot Size (Well & Septic):** 1.0 Acre
+- **Min Lot Width (Well & Septic):** 150 ft
+- **Moratorium:** Active until Sept 8, 2026.
