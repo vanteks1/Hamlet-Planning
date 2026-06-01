@@ -18,5 +18,3 @@ This list tracks the primary candidates for the Hamlet project in the Conyers/Ro
 - **Min Lot Size (Well & Septic):** 1.0 Acre
 - **Min Lot Width (Well & Septic):** 150 ft
 - **Moratorium:** Active until Sept 8, 2026.
-
-[Back](README.md)
